@@ -1,0 +1,39 @@
+.mainpage-header {
+
+    font-weight: bold;
+    font-size: large;
+    background-color: orange;
+    text-align: center;
+}
+
+body {
+    background-color: #264653; /* Dark green background for the page */
+    color: #fefae0; /* Light text for better contrast */
+    font-family: Arial, sans-serif;
+}
+
+
+
+
+
+h1 {
+    padding: 10px; /* Adds space inside the heading */
+    background-color: #f4a261;
+    text-align: center;
+}
+ul {
+    padding: 20px;
+    background-color: #fefae0;
+    border: 2px solid #264653;
+    border-radius: 8px;
+}
+
+li {
+
+    border: 1px solid #e76f51; /* Adds a red border around each list item */
+    padding: 10px;
+    margin-bottom: 10px; /* Adds space between list items */
+    border-radius: 5px; /* Smooths the corners */
+}
+
+
